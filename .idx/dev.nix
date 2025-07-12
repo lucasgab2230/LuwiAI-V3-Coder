@@ -7,6 +7,7 @@
     pkgs.git
     pkgs.python312
     pkgs.python312Packages.pip
+    pkgs.openssh
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
   ];
