@@ -1,0 +1,25 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Distribution / packaging
+dist/
+*.egg-info/
+
+# PyTorch saved models and checkpoints
+*.pth
+*.pt
+
+# Log files
+*.log
+
+# Dataset directories (assuming 'data' is where datasets are stored)
+data/
+
+# Virtual environments
+.venv/
+env/
+
+# IDE-specific files (add others if needed)
+.vscode/
+
