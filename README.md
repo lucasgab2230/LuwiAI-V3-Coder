@@ -1,4 +1,4 @@
-## Small Language Model (SLM) for Technical Text on Intel Ivy Bridge CPUs
+## LuwiAI-V3-Coder
 
 This project implements a Small Language Model (SLM) specifically designed and optimized for running on older Intel Ivy Bridge CPUs (x86-64 architecture) with support for SSE 4.2 and AVX 1.0, but *without* relying on AVX2 instructions. The model is tailored for processing technical texts, such as code, documentation (Markdown), and structured data (JSON, JSONL).
 
